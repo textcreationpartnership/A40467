@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French prophet being the famous predictions foretelling the fate of France, with the ruin and downfall of the present French King, this ensuing summer, 1692. By the victorious aims of our gracious sovereign King William the III. With the great confusion and distress of several cities and sea-ports of France, the insurrections of the people in several parts thereof, thereby facilitating a descent upon France. Together, with several other notable predictions of that reverend and learned divine, D. B----ly; wherein is briefly hinted the speedy subversion of the French monarchy, by the confederate army, under His present Majesty. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40467</idno>
+            <idno type="STC">Wing F2196A</idno>
+            <idno type="STC">ESTC R221224</idno>
+            <idno type="EEBO-CITATION">99832566</idno>
+            <idno type="PROQUEST">99832566</idno>
+            <idno type="VID">37040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40467)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2145:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French prophet being the famous predictions foretelling the fate of France, with the ruin and downfall of the present French King, this ensuing summer, 1692. By the victorious aims of our gracious sovereign King William the III. With the great confusion and distress of several cities and sea-ports of France, the insurrections of the people in several parts thereof, thereby facilitating a descent upon France. Together, with several other notable predictions of that reverend and learned divine, D. B----ly; wherein is briefly hinted the speedy subversion of the French monarchy, by the confederate army, under His present Majesty. Licensed according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for M. Marston in the Strand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715 --  Early works to 1800.</term>
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>B. D.</term>
+               <term>France --  Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37040:1"/>
+            <pb facs="tcp:37040:1"/>
+            <p>THE French Prophet: BEING The Famous Predictions Foretelling the <hi>Fate of France,</hi> With the Ruin and Downfall OF THE Preſent FRENCH KING, <hi>This Enſuing Summer,</hi> 1692.</p>
+            <p>By the Victorious Arms of our Gracious Sovereign King William the III.</p>
+            <p>With the Great Confuſion and Diſtreſs of ſeveral Cities and Sea-Ports of <hi>France,</hi> The Inſurrections of the People in ſeveral Parts thereof, thereby facilitating a <hi>Deſcent upon FRANCE.</hi>
+            </p>
+            <p>Being a Prophecy of a Great and Learned Man in <hi>France,</hi>which was found in St. <hi>Rhemy</hi> in <hi>Provence,</hi> and happily brought to Light by the Care of ſeveral <hi>French Proteſtants,</hi> who eſcaped the <hi>French Kings</hi> Tyranny, and ſafely arrived in <hi>England.</hi>
+            </p>
+            <p>Printed both in <hi>Engliſh</hi> and <hi>French.</hi>
+            </p>
+            <p>Together, with ſeveral other notable late Predictions of that Reve<g ref="char:EOLhyphen"/>rend and Learned Divine, D. <hi>B—ly;</hi> wherein is briefly hinted the ſpeedy ſubverſion of the <hi>French</hi> Monarchy, by the Confe<g ref="char:EOLhyphen"/>derate Army, under His preſent Majeſty.</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Marſton</hi> in the <hi>Strand,</hi> 1692</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_the_present_state_of_France">
+            <pb n="2" facs="tcp:37040:2"/>
+            <head>The <hi>French Prophet:</hi> Or, The Sad Fate of <hi>France</hi> Predicted.</head>
+            <p>THE preſent Tryal of Skill between the boundleſs Ambition of <hi>France</hi> and the tugging Confederacy engag'd againſt him, affords Mankind no mean Hopes and Fears, and no ſmall Expectation of the Event: And if <hi>Portents</hi> and <hi>Predictions,</hi> we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e over the Pro<g ref="char:EOLhyphen"/>droma's of extraordinary Accidents and Revolutions, we have great Reaſon to believe, that ſince the preſent Firment of Chriſtendom is too violent to hold at a Stay, and ſome great Change muſt certainly very ſhortly enſue, we might reaſonably expect ſome <hi>Propheticks</hi> pointing to this preſent Summer, 1692. Though <hi>Prophecies</hi> 'tis true, generally meet the ſame Treatment from the preſent Age, which the Patri<g ref="char:EOLhyphen"/>ark, <hi>Noah</hi>'s Prophetick Sermon of Forty Years (whilſt he was Building the Ark) receiv'd from the Brutiſh Race of Mankind, before the general Deluge.</p>
+            <p>Now the generality of <hi>Prophecies</hi> are commonly couch'd in ſuch Obſcurity, that it is very difficult to explain them, yet, without Vanity, I think I may aſſert theſe to be as free from that dark Obſcurity as any that has come to light, and perhaps, thoſe that ſpeak as plainly to this Fourth Year of our preſent Gracious Sovereign K. <hi>William,</hi> as can rationally be expected. You have them in <hi>French</hi> (the very Lan<g ref="char:EOLhyphen"/>guage they were writ in) as well as <hi>Engliſh,</hi> they were found, with divers others in the Ruin of an old Monaſtry near the Place of the Authors Nativity, the manner and way of wri<g ref="char:EOLhyphen"/>ting them, gives ſufficient Aſſurance of their Antiquity, and conſequently, can be no Sham or Invention.</p>
+            <p>To ſtrengthen theſe, I ſhall here inſert ſome of the many late <hi>Prophetick ſayings</hi> of a great Man of our Nation, the Learned Dr. <hi>B—ly,</hi> who writing on the Fate of the preſent Times, delivers himſelf to this Effect:</p>
+            <p n="1">1. <q>The <hi>French Proteſtant</hi> Churches cannot be long with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:37040:2"/> ſome Redreſs, becauſe the Time of the Anti-Chriſtian Apoſtaſie is now ſo near its end. I look upon the Churches of <hi>Thyatira,</hi> as the Emblem of thoſe Churches of the Proteſta<g ref="char:EOLhyphen"/>tion, that lye in the Bowels of Princes, who yet own Anti<g ref="char:EOLhyphen"/>chriſtian <hi>Rome;</hi> of which there is none ſo eminent and con<g ref="char:EOLhyphen"/>ſpicuous as the <hi>French Proteſtant</hi> Churches, with whom al<g ref="char:EOLhyphen"/>ſo the <hi>Vandois</hi> are Allyed.</q>
+            </p>
+            <p n="2">2. <q>Seeing that there is an extraordinary Concurrance of gracious Signatures of God upon our preſent Soveraign, there is great hopes <hi>God</hi> will ſtir him up to appear at this Time in ſo Honourable a Service, as Scripture ſtiles it, as of helping the Lord againſt thoſe Mighties: And if <hi>God</hi> be pleaſed to ſtir Him up, He will undoubtedly appear with Him; for I am bold, in our <hi>God,</hi> to ſay, I ſhall not be miſtaken in our King, as to ſome extraordinary Service <hi>God</hi> hath to do by Him, the time being ſo near, and that on theſe great Reaſons.</q>
+            </p>
+            <p n="1">1. <q>That he is the Third Deſcendant of the Great <hi>Prince of Orange,</hi> by whom <hi>God</hi> was pleaſed, in the United Pro<g ref="char:EOLhyphen"/>vinces to propagate the Proteſtancy, and to give that curb to the graſp of that Time, after the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Monarchy:</hi> And becauſe he fell a Martyr in it, and receiv'd no Recom<g ref="char:EOLhyphen"/>pence from the Bounty of <hi>God,</hi> equal, after the general eſtimate of Providence, I doubt not <hi>God</hi> hath reſerved it for his Poſterity, and for the Prince that he hath raiſed at this Time to be ſo Serviceable to the <hi>Proteſtant Religion,</hi> and inſpired with ſo much Zeal and Courage for it.</q>
+            </p>
+            <p n="2">2. <q>Our King, as Prince of <hi>Orange,</hi> but now under great<g ref="char:EOLhyphen"/>er Stiles, is One of the Princes and Nobles of <hi>France;</hi> That as the firſt Works of thoſe Churches were principally by Princes and Nobles, proceeding of themſelves: In the ſame manner ſhall their <hi>Last greater Works be done:</hi> In which regard, our King appears an Inſtrument fitted by <hi>God,</hi> as a Prince and Noble proceeding from themſelves.</q>
+            </p>
+            <p n="3">3. <q>Above all, I perſevere, that within the Six next Sum<g ref="char:EOLhyphen"/>mers, <hi>viz.</hi> in 97. <hi>Anti-Chriſtian</hi> and <hi>Turkiſh Tyranny</hi> ſhall Fall, and a great Re-Reformation enſue. And now, if theſe things ſhall ſeem of value to ſo Sovereign an Authority, let
+<pb n="4" facs="tcp:37040:3"/> it pleaſe them to take care, that Conſideration may be had whether upon juſt Grounds, what is, or hath been offered, can be refus'd, <hi>viz.</hi> on due Debates, according to the Re<g ref="char:EOLhyphen"/>cords of <hi>Scripture, Chronology, Hiſtory, Reaſon,</hi> and <hi>Experi<g ref="char:EOLhyphen"/>ence,</hi> without any other Reflections than what enter into the Merits of the Cauſe.</q>
+            </p>
+            <p>
+               <hi>Advice</hi> 1. <q>That the Arms of the <hi>Proteſtauts</hi> Refugees of <hi>France,</hi> of the <hi>Vandois</hi> of <hi>Proteſtant</hi> Princes in general, be highly valued.</q>
+            </p>
+            <p>
+               <hi>Adv.</hi> 2. <q>I would moſt humbly adviſe, That there might be, under ſo great an Authority and Influence, an Aſſembly of Men Learned, and loving the Kingdom of our <hi>Lord Je<g ref="char:EOLhyphen"/>ſus Christ,</hi> who might diſcover ſo admirable a part (hither<g ref="char:EOLhyphen"/>to it may be called a <hi>Terra Incognita)</hi> of Scripture, even the ſtupendious Propheſies of it.</q>
+            </p>
+            <p>
+               <q>I am bold to ſay, if I had, as now <hi>God</hi> hath vouchſafed me, underſtood Propheſie in the Years 48 and 50, and ſo on<g ref="char:EOLhyphen"/>ward, in the very Top of thoſe Powers over the Nation, and kept cloſe and ſteady to the Guidance of it, I ſhould certainly have foreſeen the Re-enſtating the Church of <hi>England,</hi> that lay then in the Duſt, and ſo of the Royal Fa<g ref="char:EOLhyphen"/>mily that ſhould do it.</q>
+            </p>
+         </div>
+         <div type="prophecies">
+            <pb n="5" facs="tcp:37040:3"/>
+            <head>Here begins The French Propheſie.</head>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>Roy contre Prince, &amp; le Due contre Roy,</hi>
+                     </l>
+                     <l>
+                        <hi>Haine entre iceux Diſſention horribile,</hi>
+                     </l>
+                     <l>
+                        <hi>Rage &amp; Fureur fera toute Province,</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <hi>France</hi> grand Guerre, &amp; Changement terrible.</hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <lg>
+                        <head>Engliſh.</head>
+                        <l>King againſt Prince, and Duke againſt King,</l>
+                        <l>Hatred between them, horrid Diſſention,</l>
+                        <l>Rage and Fury ſhall be in every Province,</l>
+                        <l>Great Wars in <hi>France,</hi> and horrid Changes.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>This is a true Picture of the impending Miſeries of <hi>France.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>Par Conflict Roy Regne abandonera,</hi>
+                     </l>
+                     <l>
+                        <hi>Le plus grand Cheſs faillira au beſoigne,</hi>
+                     </l>
+                     <l>
+                        <hi>Morts profliger pen en rechapera,</hi>
+                     </l>
+                     <l>
+                        <hi>Tous deſtrencher un en ſera Teſtmoin.</hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <lg>
+                        <head>Engliſh.</head>
+                        <l>By a Battle the <hi>French</hi> King ſhall forſake his Kingdom,</l>
+                        <l>The greateſt Commander ſhall fail in time of need,</l>
+                        <l>They ſhall be Killed and Routed, few ſhall eſcape,</l>
+                        <l>They ſhall be cut off, one only ſhall be left for a Witneſs.</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>La Ligue nevue d' <hi>Anſone</hi> fera Guerre,</hi>
+                     </l>
+                     <l>
+                        <hi>Que contre eux ils ſe viendront bander.</hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <lg>
+                        <head>Engliſh.</head>
+                        <l>The new League of <hi>Anſone</hi> ſhall make Wars,</l>
+                        <l>So that they ſhall ſtand againſt them.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>This ſpeaks of a League and Inſurrection that ſhall be at
+<pb n="6" facs="tcp:37040:4"/> 
+                     <hi>Bordeaux,</hi> which is here called <hi>Anſone,</hi> from a Famous Latin Poet, named <hi>Anſonius,</hi> who was Born in that City.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>Le Ciel (de <hi>Plaucus</hi> la Cite) nous preſage.</hi>
+                     </l>
+                     <l>
+                        <hi>Par Clercs inſignes, &amp; pur Eſtoiles fixes,</hi>
+                     </l>
+                     <l>
+                        <hi>Que de Son Change ſubit laproche lage,</hi>
+                     </l>
+                     <l>
+                        <hi>Ne pour Son bien, ne pour ſes male fiat.</hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <lg>
+                        <head>Engliſh.</head>
+                        <l>The Heavens foretelleth concerning the City <hi>Plaucus,</hi>
+                        </l>
+                        <l>By famous Clerks and fixed Stars,</l>
+                        <l>That the time of her ſuddain Change is near at hand,</l>
+                        <l>Neither becauſe of her Goodneſs nor Wickedneſs.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>The City of <hi>Plaucus</hi> is <hi>Lyons,</hi> becauſe he was Founder of it, (it's a Famous City in <hi>France):</hi> That City is threatned here of a ſudden Change, cauſed neither by her Goodneſs or Wick<g ref="char:EOLhyphen"/>edneſs, but by a certain Poſition and Aſpect of the fixed Stars, which makes it fatal.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>Eu la Citè ou le Loup entera,</hi>
+                     </l>
+                     <l>
+                        <hi>Bien pres de la les Ennemies ſeront,</hi>
+                     </l>
+                     <l>
+                        <hi>Copie Eſtrange grand pais Gaſtera,</hi>
+                     </l>
+                     <l>
+                        <hi>Aux Mouts des Alpes les annis paſſeront.</hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <lg>
+                        <head>Engliſh.</head>
+                        <l>In the City wherein the Woolf ſhall go,</l>
+                        <l>Near that place the Enemy ſhall be,</l>
+                        <l>An Army of Strangers ſhall ſpoil a great Country,</l>
+                        <l>The Friends ſhall go over the Mountains of the <hi>Alpes.</hi>
+                        </l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>Des Deux duelles l'vn percera le ſiel,</hi>
+                     </l>
+                     <l>
+                        <hi>Hay de lay ayme de ſa Mere.</hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <lg>
+                        <head>Engliſh.</head>
+                        <l>An <hi>Engliſh</hi> Prince <hi>Mars</hi> hath his Heart from Heaven,</l>
+                        <l>Will follow his proſperous Fortune.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>By this Stanza is promiſed to <hi>England</hi> a Martial Prince,
+<pb n="7" facs="tcp:37040:4"/> who hath his Heart from Heaven, and with all endeavours follows his proſperous Fortune.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>Celuy qui la Principautè, Tiendra par grade cruante,</hi>
+                     </l>
+                     <l>
+                        <hi>Ala fin, verra grand Phalange. Par loup de feu tres dangereux,</hi>
+                     </l>
+                     <l>
+                        <hi>Par accord pourroit fair mieux. Autrement boira ſuc d' <hi>Orenge.</hi>
+                        </hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <head>Engliſh.</head>
+                     <p>He who ſhall the Principality hold with great Cruelty, in the Concluſion ſhall ſee a great Army ruin'd by a moſt dan<g ref="char:EOLhyphen"/>gerous Fire-blow, he might do better to make an Accord, otherways he ſhall drink the Juice of <hi>Orange.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>In the firſt Place, here is an exact Diſcription of the <hi>French</hi> Power and Dominion, which has been carry'd on by the greateſt Cruelty and Oppreſſion where ever they have been Conquerors<g ref="char:punc">▪</g> ſo great have been the Deſolations in the Em<g ref="char:EOLhyphen"/>pire, and part of <hi>Italy,</hi> eſpecially in <hi>Savoy;</hi> and the Palati<g ref="char:EOLhyphen"/>nate eſpecially the latter, that there is not a Village left for many Miles together. <hi>(And he ſhall ſee his Army ruin'd by the most dangerous Blow of Fire.)</hi> By this Fire is plainly meant the force of Powder, the now common and terrible Compoſition of the horrid Engines of War. <hi>(He might do bet<g ref="char:EOLhyphen"/>ter to make an Accord.)</hi> It is certainly the true Intereſt of <hi>France</hi> to lay hold on this wholeſome Councel, if the Pride and Ambition of the great Tyrant would refund the Acqui<g ref="char:EOLhyphen"/>ſitions and ill gotten Victories to purchaſe that Peace, which, at preſent, indeed is not agreeing with his Kidney. <hi>(Other<g ref="char:EOLhyphen"/>ways he ſhall drink the Juice of an Orange.)</hi> Moſt certainly, by this Juice of <hi>Orange</hi> muſt be meant, The Arms of his pre<g ref="char:EOLhyphen"/>ſent Majeſty our moſt illuſtrious Monarch, for want of which Accord, not made, nor now like to be, perhaps before <hi>July</hi> next, the Great <hi>Lewis</hi> will find the Force and Power of this Mighty Prince in the Bowels of <hi>France.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="fre" type="prophecy">
+                  <lg>
+                     <head>French.</head>
+                     <l>
+                        <hi>Le grand D'<hi>Hungrie</hi> ira dans la Nacelle,</hi>
+                     </l>
+                     <l>
+                        <hi>Le Noveau ne fera Guerre Novelle,</hi>
+                     </l>
+                     <l>
+                        <hi>A Son voiſin qu'il tiendra Aſſiege,</hi>
+                     </l>
+                     <pb n="8" facs="tcp:37040:5"/>
+                     <l>
+                        <hi>Et le Noire du avec Son Alteſſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Ne ſuffrira que par trop on le preſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e,</hi>
+                     </l>
+                     <l>
+                        <hi>Duraut Trois ans ſes Gens tiendra Range.</hi>
+                     </l>
+                  </lg>
+                  <div type="translation">
+                     <lg>
+                        <head>English.</head>
+                        <l>The Great One of <hi>Hungary</hi> ſhall go to the Boat,</l>
+                        <l>The New One ſhall not make a New War</l>
+                        <l>Againſt his Neighbour, whom he ſhall Beſiege on every ſide,</l>
+                        <l>And the Black one with his Highneſs,</l>
+                        <l>Shall not ſuffer him to be over-preſſed,</l>
+                        <l>During thre years he ſhall keep his People in order.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>I ſhall here take notice only of the latter part, which re<g ref="char:EOLhyphen"/>lates more immediately <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> (And the Black one with his Highneſs ſhall not ſuffer hi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> be over-preſs'd,) that is, the <hi>Spaniard,</hi> with his Highneſs the Prince of <hi>Orange,</hi> ſhall t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke the Emperors part, and make ſome Check to the Progreſs of <hi>France: For the Black one,</hi> muſt mean <hi>Spain,</hi> the Epethite of <hi>Black</hi> being the vulgar Characteriſtick of the <hi>Spaniard,</hi> and His <hi>Highneſs</hi> muſt mean his preſent Majeſty, more pro<g ref="char:EOLhyphen"/>perly called His <hi>Highneſs</hi> in the <hi>Propheſie,</hi> as the young <hi>Han<g ref="char:EOLhyphen"/>nibal</hi> againſt <hi>Rome,</hi> being an early Sworn Foe to <hi>France:</hi> and though not ſo Potent a one, yet no leſs Zealous a Champion of the Conſederacy; when only Prince of <hi>Orange, (During Three Years he ſhall keep his People in Order,)</hi> Here the <hi>Engliſh</hi> and <hi>French</hi> Prophet jump, for here we come to the Old Pre<g ref="char:EOLhyphen"/>diction of this approaching 92, the Famous Fourth Year of His Majeſties Reign before-mentioned. During three Years of our Sovereigns Reign, <hi>France</hi> ſhall hold up his Head a<g ref="char:EOLhyphen"/>gainſt his Enemies, and make hard ſhift to keep Peace at home. But this great <hi>Fourth Year,</hi> let him look for Dome<g ref="char:EOLhyphen"/>ſtick Inſurrections and Rebellions from a People over-laden with intollerable Burthen of ſo long a War; and feel the weight of the impending Bolts that hang over him, whoſe Execution perhaps the Juſtice of Providence has thus long re<g ref="char:EOLhyphen"/>tarded, to fall at laſt more home and more heavy. When both the <hi>Eagle</hi> and the <hi>Son of Man,</hi> ſhall be Exalted, and the <hi>Lil<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> meet the Fate it hath deſerved.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37040:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
